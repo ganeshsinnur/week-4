@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378876362494",
+    "project_id": "prego-4759f",
+    "storage_bucket": "prego-4759f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378876362494:android:15f54354d5000ee79e6faf",
+        "android_client_info": {
+          "package_name": "com.example.prego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUVs5WIyPwmzw3a_1_HlUO7XsTVBYlAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
